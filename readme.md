@@ -1,5 +1,5 @@
 # Welcome to our Portfolio Challenge!
-Timo says
+Timo says hi
 For this Challenge, you'll explore many features of Velo by Wix, but this is just the start. Velo opens up an entire JavaScript web development platform on top of Wix so you can customize your site without additional maintenance headaches or extra hosting costs. If you want to learn more about Velo, check out [our site](https://www.wix.com/Velo/).
 
 **:link: Useful Links**
